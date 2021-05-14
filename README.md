@@ -1,6 +1,6 @@
 # NE-155-2D-Diffusion-Project
 NE 155 final coding project. Creating a 2D diffusion solver.
-This was made by an undergrad student doing his best, dont use this if you want accurate and reliable results.
+This was made by an undergrad student doing his best, so don't use this if you want accurate and reliable results.
 The goal of this project is to write a 2D diffusion solver with vacuum boundaries
 on the left and bottom faces with reflecting boundaries on the top and right faces.
 
